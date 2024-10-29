@@ -1,0 +1,12 @@
+.parentlist{
+    padding-left: 0px;
+}
+.sublist{
+        border: 1px solid blue;
+        margin: 4px 0px 0px 0px;
+        padding: 4px;
+        border-radius: 5px;
+        display: flex;
+        justify-content: space-around;
+
+}

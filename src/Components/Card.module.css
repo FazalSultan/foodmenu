@@ -1,0 +1,10 @@
+.cards{
+    margin-top: 5px;
+    display: flex;
+    width: 50%;
+    height: fit-content;
+}
+.cardtitle{
+    display: flex;
+    justify-content: center;
+}
